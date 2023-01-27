@@ -22,7 +22,7 @@ The repo for the PCB made to work with the micronova_controller project. Softwar
 
 
 ## Working with
-stoves equipped with MicroNova mainboard.
+stoves equipped with Micronova mainboard.
 <details>
 <summary><b>Known brands</b></summary>
 
