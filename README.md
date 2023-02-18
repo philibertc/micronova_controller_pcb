@@ -53,6 +53,7 @@ stoves equipped with Micronova mainboard.
 - MCZ (Brisach, Cadel, FreePoint, Pegaso, Red)
 - Moretti Design
 - Nordic Fire
+- Palladio
 - Piazetta
 - Sicalor
 - Stufe a pellet Italia
@@ -79,4 +80,5 @@ stoves equipped with Micronova mainboard.
 - ETNA Giulia EVO (Micronova J042, fumes temp and power reading doesn't work for the moment)
 - Extraflame Teodora Evo (at least turning on works)
 - El.Fire Venice Slim
+- Palladio Europa
 </details>
