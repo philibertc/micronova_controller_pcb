@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "MicroNova Controller")
-		(date "August 2021")
-		(rev "1.1")
+		(date "2024-10-25")
+		(rev "1.2")
 		(company "philibertc")
 		(comment 1 "License: CC-BY-NC-ND")
 	)
