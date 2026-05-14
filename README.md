@@ -1,6 +1,7 @@
 # micronova_controller_pcb
 The repo for the PCB made to work with the micronova_controller project. Software details [here.](https://github.com/philibertc/micronova_controller/)
 
+<a href="https://lectronz.com/stores/philibertc" alt="I sell on Lectronz"><img src="https://lectronz-images.b-cdn.net/static/badges/i-sell-on-lectronz-medium.png" /></a>
 <a href="https://www.tindie.com/products/philibertc/pellet-heater-controller/">
   <img src="https://user-images.githubusercontent.com/57588282/131249215-e0877966-c181-49fa-ae90-59f0a95ad292.png" alt="I sell on Tindie" width=150 />
 </a>
